@@ -5,7 +5,7 @@ int main() {
     int y = x;
     int z = y * x;  // This will be 25
     int input;  // Declare 'input' to store user input
-
+    printf("if x is = 5 and y = x and z = y * x\n");
     printf("What would the answer be?\n");
 
     // Check if scanf reads an integer and nothing else
