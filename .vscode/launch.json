@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/jolz/Documents/GitHub/zymcs",
-      "program": "c:/Users/jolz/Documents/GitHub/zymcs/build/Debug/outDebug",
+      "program": "c:/Users/jolz/Documents/GitHub/zymcs/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
