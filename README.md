@@ -27,18 +27,19 @@ Feel free to ask me about anything! I’m open to discussions on:
 - **Email**: [zymc.business@gmail.com](mailto:zymc.business@gmail.com)
 
 ## 📄 Additional Resources
-- [My LinkedIn](your-linkedin-url)
-- [My Portfolio](your-portfolio-url) (if applicable)
+- [My LinkedIn](https://www.linkedin.com/in/jawad-dibs-3685652b2/)
+- [My Portfolio](https://drive.google.com/drive/folders/1xm23KS7qfdAhq5drEKEPwRcsA4R993rC?usp=sharing) (if applicable)
 
 ## 📚 Learning Resources
 Here are some resources I recommend for anyone interested in software engineering or cybersecurity:
 - [FreeCodeCamp](https://www.freecodecamp.org)
 - [Cybrary](https://www.cybrary.it)
 - [Coursera](https://www.coursera.org) (look for courses on cybersecurity)
+- [w3schools](w3schools.com) (helps with basics of any programming language)
 
 ## 🛠️ Technologies & Tools
 I’m familiar with and currently working with:
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, C, C++
 - **Frameworks**: React, Node.js
 - **Tools**: Git, Docker, Wireshark
 
